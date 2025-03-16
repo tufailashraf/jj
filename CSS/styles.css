@@ -940,3 +940,30 @@ main > :nth-child(1) footer > :nth-child(1) > :nth-child(2) .subscribe-form2 .su
   transition: 0.5s;
 }
 
+/**/
+
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yrsa:ital,wght@0,300..700;1,300..700&display=swap");
+
+
+header .content {
+  font-family: 'Montsterret', sans-serif !important;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column nowrap !important;
+  color: #fff !important;
+  text-align: center;
+
+  h1,
+  h2,
+  a {
+    color: #fff !important;
+    font-size: 18px !important;
+    font-family: 'Montsterret', sans-serif !important;
+  }
+
+  span {
+    color: #1db954;
+  }
+}
