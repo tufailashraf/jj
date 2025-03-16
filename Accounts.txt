@@ -1,0 +1,13 @@
+Gmail:      Email = contactjacobjeans@gmail.com
+            Password = jjsharedpassword2024
+
+EmailJS:    Email = contactjacobjeans@gmail.com
+            Password = jjsharedpassword2024
+
+github:     Username = Jacob-Jeans
+            Email = contactjacobjeans@gmail.com
+            Password = jjsharedpassword2024
+
+vercel:     Username = Jacob-Jeans
+            Email = contactjacobjeans@gmail.com 
+            Password = jjsharedpassword2024 
